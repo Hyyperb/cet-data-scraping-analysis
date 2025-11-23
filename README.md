@@ -1,7 +1,7 @@
 # CET Data stuff (Not Maintained)
 
 > [!NOTE]
-> All real data is stripped out from github to avoid getting indexed by search engines
+> All real data is stripped out from github to avoid getting indexed by search engines.
 > Only scripts remain here
 
 ## Overview
