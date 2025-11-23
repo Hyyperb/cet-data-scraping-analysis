@@ -7,7 +7,7 @@
 
 ## Overview
 
-Many random things related to MHT-CET, mostly serialising data from large pdfs into csv
+Many random things related to MHT-CET, mostly serializing data from large pdfs into csv
 and some analytics with it (and OSINT).
 
 - 36k entries of colleges across maharashtra with
